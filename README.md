@@ -12,6 +12,7 @@ But "Just JavaScript" May Not Be Ideal!
 
 jQuery:
 
+
 ```javascript
 <ul class="js-items"></ul>
 
